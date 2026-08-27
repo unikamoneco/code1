@@ -1,5 +1,15 @@
 # Repository Instructions
 
+## セッション開始時のルール
+
+作業を始める前に、まず `unikamoneco/code0` をクローン（または最新化）して、次の内容に目を通す。
+
+- `AGENTS.md` の「判断のルール」「記憶の残し方」
+- `business-os/profile.md`（強み・方針・提供する価値・NG）
+- `logs/decisions.md`・`logs/preferences.md`（過去の判断・好みの記録）
+
+作業中に新しい好みの指摘や判断が発生したら、`code0` の該当ログに追記する。
+
 - Keep changes small and easy to review.
 - Update `README.md` when behavior or setup steps change.
 - Prefer simple, dependency-light implementations unless the task clearly needs a framework.
