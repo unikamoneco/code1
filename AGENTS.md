@@ -1,14 +1,19 @@
 # Repository Instructions
 
-## セッション開始時のルール
+## code0参照のルール
 
-作業を始める前に、まず `unikamoneco/code0` をクローン（または最新化）して、次の内容に目を通す。
+`unikamoneco/code0` を毎回読みに行くとトークンを消費するため、参照するのは次のタイミングに限定する。
+
+- ユーザーから明示的に指示されたとき
+- このセッションで初めてこのリポジトリ（または別のリポジトリ）を触り始めるとき
+
+参照する際は、`code0` をクローン（または最新化）して次の内容に目を通す。
 
 - `AGENTS.md` の「判断のルール」「記憶の残し方」
 - `business-os/profile.md`（強み・方針・提供する価値・NG）
 - `logs/decisions.md`・`logs/preferences.md`（過去の判断・好みの記録）
 
-作業中に新しい好みの指摘や判断が発生したら、`code0` の該当ログに追記する。
+作業中に新しい好みの指摘や判断が発生したら、`code0` の該当ログに追記する（これは毎回行う）。
 
 - Keep changes small and easy to review.
 - Update `README.md` when behavior or setup steps change.
