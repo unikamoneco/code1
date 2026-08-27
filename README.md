@@ -1,4 +1,4 @@
-# codex1
+# code1
 
 Codex cloud で作業するための最小リポジトリです。
 
